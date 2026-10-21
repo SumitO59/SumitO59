@@ -32,8 +32,8 @@ I’m a Computer Science undergraduate at **NIT Srinagar** who learns by buildin
 </tr>
 <tr>
 <td><strong><a href="https://github.com/SumitO59/CipherVision">CipherVision</a></strong></td>
-<td>An AI-powered invisible image-watermarking application focused on protecting digital assets and verifying ownership.</td>
-<td><code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>HTML</code></td>
+<td>A full-stack digital image ownership platform that uses the PixelSeal neural watermarking model to embed invisible ownership identifiers into images and verify them later. Includes duplicate-watermark detection, BCH error correction, Google OAuth/JWT authentication, and privacy-aware owner verification.</td>
+<td><code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>PostgreSQL</code></td>
 </tr>
 <tr>
 <td><strong><a href="https://github.com/SumitO59/Lexora">Lexora</a></strong></td>
