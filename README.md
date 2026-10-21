@@ -31,9 +31,19 @@ I’m a Computer Science undergraduate at **NIT Srinagar** who learns by buildin
 <th align="left">Stack / Focus</th>
 </tr>
 <tr>
+<td><strong><a href="https://github.com/SumitO59/CipherVision">CipherVision</a></strong></td>
+<td>An AI-powered invisible image-watermarking application focused on protecting digital assets and verifying ownership.</td>
+<td><code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>HTML</code></td>
+</tr>
+<tr>
 <td><strong><a href="https://github.com/SumitO59/Lexora">Lexora</a></strong></td>
 <td>A local-first document Q&A and analysis application. Combines semantic retrieval, BM25 keyword search, cross-encoder reranking, and a local language model to generate document-grounded answers with source information.</td>
 <td><code>Python</code> <code>RAG</code> <code>ChromaDB</code> <code>Ollama</code></td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/SumitO59/Cert-Gen">CertGen</a></strong></td>
+<td>A certificate creation and verification platform supporting reusable templates, bulk PDF generation, QR-based verification, and optional email delivery.</td>
+<td><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code></td>
 </tr>
 <tr>
 <td><strong><a href="https://github.com/SumitO59/Eventra">Eventra</a></strong></td>
@@ -44,16 +54,6 @@ I’m a Computer Science undergraduate at **NIT Srinagar** who learns by buildin
 <td><strong><a href="https://github.com/SumitO59/IT-Service-Desk-Analytics-SLA-Intelligence">IT Service Desk Analytics & SLA Intelligence</a></strong></td>
 <td>An analytics project exploring 24,918 service-desk incidents, SLA compliance, resolution times, reassignment patterns, and operational risk, with a live Streamlit dashboard linked in the project README.</td>
 <td><code>Python</code> <code>SQL</code> <code>Pandas</code> <code>Streamlit</code></td>
-</tr>
-<tr>
-<td><strong><a href="https://github.com/SumitO59/Cert-Gen">CertGen</a></strong></td>
-<td>A certificate creation and verification platform supporting reusable templates, bulk PDF generation, QR-based verification, and optional email delivery.</td>
-<td><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code></td>
-</tr>
-<tr>
-<td><strong><a href="https://github.com/SumitO59/CipherVision">CipherVision</a></strong></td>
-<td>An AI-powered invisible image-watermarking application focused on protecting digital assets and verifying ownership.</td>
-<td><code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>HTML</code></td>
 </tr>
 </table>
 
